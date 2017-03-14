@@ -1,6 +1,7 @@
-source("https://raw.githubusercontent.com/erikgjes/CAA_2017/master/CAA_functions.R")
 library(sna)
 library(RCurl)
+
+source("https://raw.githubusercontent.com/erikgjes/CAA_2017/master/CAA_functions.R")
 
 ##10 Nodes
 ##Read in Barabasi Network and create random graphs
